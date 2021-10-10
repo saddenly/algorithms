@@ -1,6 +1,6 @@
-package search.binary;
+package search;
 
-public class Main {
+public class BinarySearch {
     public static void main(String[] args) {
         int[] nums = {1, 3, 5, 10, 11, 15, 26};
         int result = binarySearch(nums, 0, nums.length - 1, 126);

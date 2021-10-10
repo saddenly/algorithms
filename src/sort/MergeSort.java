@@ -1,6 +1,6 @@
-package sort.mergeSort;
+package sort;
 
-public class Main {
+public class MergeSort {
     public static void main(String[] args) {
         int[] nums = {-2, 5, 3, 10, 0, 11, -5};
 

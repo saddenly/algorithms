@@ -1,8 +1,8 @@
-package sort.bubbleSort;
+package sort;
 
 import java.util.Arrays;
 
-public class Main {
+public class BubbleSort {
     public static void main(String[] args) {
         int[] nums = {-2, 5, 3, 10, 0, 11, -5};
         System.out.println(Arrays.toString(bubbleSort(nums)));
